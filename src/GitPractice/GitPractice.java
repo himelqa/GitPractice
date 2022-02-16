@@ -9,6 +9,7 @@ public class GitPractice {
 		System.out.println("updating this file");
 		System.out.println("dhbshdhysshj");
 		System.out.println("de bhhjmb ");
+		System.out.println("this is just a practice");
 	}
 
 }
