@@ -10,6 +10,7 @@ public class GitPractice {
 		System.out.println("dhbshdhysshj");
 		System.out.println("de bhhjmb ");
 		System.out.println("this is just a practice");
+		System.out.println("update from origin");
 	}
 
 }
