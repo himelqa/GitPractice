@@ -13,6 +13,7 @@ public class GitPractice {
 		System.out.println("update from origin");
 		System.out.println("new update");
 		System.out.println("Himel");
+		System.out.println("Mahir");
 	}
 
 }
