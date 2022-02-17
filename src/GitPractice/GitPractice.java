@@ -15,7 +15,7 @@ public class GitPractice {
 		System.out.println("Himel");
 		System.out.println("Mahir");
 		System.out.println("Munna");
-		System.out.println("Nubaha");
+		
 	}
 
 }
